@@ -1,0 +1,8 @@
+# cirno.cow
+
+#$thoughts = '/';
+$the_cow = <<EOC;
+       $thoughts
+        $thoughts
+      ( ͡° ͜ʖ ͡°)
+EOC
